@@ -1,0 +1,10 @@
+Variables
+In programming a variable is like a box that you can use to store something in like a number or text.
+Strings
+In programming, a string is some amount of text. A string can be very short like one letter or a space. A string can be so short it has nothing in it. A string can also be very long. This written explanation is a string.
+Functions (arguments, return)
+In programming, when you have something you know you will need to do many times, you can write that piece of code in something called a function. Then you only have to write it one time. You can give the function a name. Anytime you need to use that code, you just call its name. Sometimes a function needs information, something to chew on, you can give your function this information in the form of arguments. When the function is done its task, it can return the results of that task to the place in the code where you called it.
+if statements
+In programming, an if statement is a way to tell the computer to only do something when some test is passed.
+Boolean values (true, false)
+When a test or "condition" is passed (e.g., is 5 greater than 3? yes it is), we say it is TRUE. When a test does not pass (is 3 greater than 5? no it's not), we say it is FALSE.
